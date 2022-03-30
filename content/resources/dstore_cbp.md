@@ -10,6 +10,7 @@ description: 'This is a proposal prepared by the student group Drugstore Cowboys
   and Alexandros Machairas. Used with permission.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/8d46eb4c735c8a0135a54c14f625422d_dstore_cbp.pdf
 file_type: application/pdf
+parent_uid: 4a1892d1-3a01-9ebc-5d84-64e43b3f5ff2
 resourcetype: Document
 title: dstore_cbp.pdf
 uid: 8d46eb4c-735c-8a01-35a5-4c14f625422d
